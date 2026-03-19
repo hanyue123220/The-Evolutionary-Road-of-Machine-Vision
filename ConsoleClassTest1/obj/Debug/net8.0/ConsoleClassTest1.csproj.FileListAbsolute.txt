@@ -1,0 +1,14 @@
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\bin\Debug\net8.0\ConsoleClassTest1.exe
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\bin\Debug\net8.0\ConsoleClassTest1.deps.json
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\bin\Debug\net8.0\ConsoleClassTest1.runtimeconfig.json
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\bin\Debug\net8.0\ConsoleClassTest1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\bin\Debug\net8.0\ConsoleClassTest1.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\obj\Debug\net8.0\ConsoleClassTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\obj\Debug\net8.0\ConsoleClassTest1.AssemblyInfoInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\obj\Debug\net8.0\ConsoleClassTest1.AssemblyInfo.cs
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\obj\Debug\net8.0\ConsoleClassTest1.csproj.CoreCompileInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\obj\Debug\net8.0\ConsoleClassTest1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\obj\Debug\net8.0\refint\ConsoleClassTest1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\obj\Debug\net8.0\ConsoleClassTest1.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\obj\Debug\net8.0\ConsoleClassTest1.genruntimeconfig.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleClassTest1\obj\Debug\net8.0\ref\ConsoleClassTest1.dll
