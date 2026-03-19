@@ -4,9 +4,9 @@
     {
         static void HelloWorld()//静态方法
         {
-            Console.WriteLine("Hello, World!1");
-            Console.WriteLine("Hello, World!2");
-            Console.WriteLine("Hello, World!3");
+            Console.WriteLine("你好世界!1");
+            Console.WriteLine("Hello, World!1232");
+            Console.WriteLine("Hello, World!312313");
         }
         int Add(int a)//非静态方法
         {
