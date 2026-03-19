@@ -1,0 +1,14 @@
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\bin\Debug\net8.0\ConsoleObjectReference1.exe
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\bin\Debug\net8.0\ConsoleObjectReference1.deps.json
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\bin\Debug\net8.0\ConsoleObjectReference1.runtimeconfig.json
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\bin\Debug\net8.0\ConsoleObjectReference1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\bin\Debug\net8.0\ConsoleObjectReference1.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\obj\Debug\net8.0\ConsoleObjectReference1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\obj\Debug\net8.0\ConsoleObjectReference1.AssemblyInfoInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\obj\Debug\net8.0\ConsoleObjectReference1.AssemblyInfo.cs
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\obj\Debug\net8.0\ConsoleObjectReference1.csproj.CoreCompileInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\obj\Debug\net8.0\ConsoleObjectReference1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\obj\Debug\net8.0\refint\ConsoleObjectReference1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\obj\Debug\net8.0\ConsoleObjectReference1.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\obj\Debug\net8.0\ConsoleObjectReference1.genruntimeconfig.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleObjectReference1\obj\Debug\net8.0\ref\ConsoleObjectReference1.dll
