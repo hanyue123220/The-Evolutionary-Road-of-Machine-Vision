@@ -1,0 +1,14 @@
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\bin\Debug\net8.0\ConsoleIfPratice1.exe
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\bin\Debug\net8.0\ConsoleIfPratice1.deps.json
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\bin\Debug\net8.0\ConsoleIfPratice1.runtimeconfig.json
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\bin\Debug\net8.0\ConsoleIfPratice1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\bin\Debug\net8.0\ConsoleIfPratice1.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\obj\Debug\net8.0\ConsoleIfPratice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\obj\Debug\net8.0\ConsoleIfPratice1.AssemblyInfoInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\obj\Debug\net8.0\ConsoleIfPratice1.AssemblyInfo.cs
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\obj\Debug\net8.0\ConsoleIfPratice1.csproj.CoreCompileInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\obj\Debug\net8.0\ConsoleIfPratice1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\obj\Debug\net8.0\refint\ConsoleIfPratice1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\obj\Debug\net8.0\ConsoleIfPratice1.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\obj\Debug\net8.0\ConsoleIfPratice1.genruntimeconfig.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleIfPratice1\obj\Debug\net8.0\ref\ConsoleIfPratice1.dll
