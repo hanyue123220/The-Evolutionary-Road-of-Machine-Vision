@@ -1,0 +1,14 @@
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\bin\Debug\net8.0\ConsoleLoopPractice1.exe
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\bin\Debug\net8.0\ConsoleLoopPractice1.deps.json
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\bin\Debug\net8.0\ConsoleLoopPractice1.runtimeconfig.json
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\bin\Debug\net8.0\ConsoleLoopPractice1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\bin\Debug\net8.0\ConsoleLoopPractice1.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\obj\Debug\net8.0\ConsoleLoopPractice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\obj\Debug\net8.0\ConsoleLoopPractice1.AssemblyInfoInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\obj\Debug\net8.0\ConsoleLoopPractice1.AssemblyInfo.cs
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\obj\Debug\net8.0\ConsoleLoopPractice1.csproj.CoreCompileInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\obj\Debug\net8.0\ConsoleLoopPractice1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\obj\Debug\net8.0\refint\ConsoleLoopPractice1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\obj\Debug\net8.0\ConsoleLoopPractice1.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\obj\Debug\net8.0\ConsoleLoopPractice1.genruntimeconfig.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\ConsoleLoopPractice1\obj\Debug\net8.0\ref\ConsoleLoopPractice1.dll
