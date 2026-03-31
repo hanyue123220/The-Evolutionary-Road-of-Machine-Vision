@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HANYUE\\Desktop\\C#\\1\u6708\u57FA\u7840\\\u534E\u84DDDay01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F590BF7-049D-4ADE-8329-D77623BD63C3}|\u534E\u84DDDay01.csproj|c:\\users\\hanyue\\desktop\\c#\\1\u6708\u57FA\u7840\\\u534E\u84DDday01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F590BF7-049D-4ADE-8329-D77623BD63C3}|\u534E\u84DDDay01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HANYUE\\Desktop\\C#\\1\u6708\u57FA\u7840\\\u534E\u84DDDay01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HANYUE\\Desktop\\C#\\1\u6708\u57FA\u7840\\\u534E\u84DDDay01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:20:17.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

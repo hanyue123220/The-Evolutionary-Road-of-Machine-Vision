@@ -1,0 +1,7 @@
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day02\bin\Debug\华蓝Day02.exe.config
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day02\bin\Debug\华蓝Day02.exe
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day02\bin\Debug\华蓝Day02.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day02\obj\Debug\华蓝Day02.csproj.AssemblyReference.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day02\obj\Debug\华蓝Day02.csproj.CoreCompileInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day02\obj\Debug\华蓝Day02.exe
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day02\obj\Debug\华蓝Day02.pdb

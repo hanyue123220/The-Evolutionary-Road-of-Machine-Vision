@@ -1,0 +1,14 @@
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\bin\Debug\net8.0\华蓝Day1.exe
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\bin\Debug\net8.0\华蓝Day1.deps.json
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\bin\Debug\net8.0\华蓝Day1.runtimeconfig.json
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\bin\Debug\net8.0\华蓝Day1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\bin\Debug\net8.0\华蓝Day1.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\obj\Debug\net8.0\华蓝Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\obj\Debug\net8.0\华蓝Day1.AssemblyInfoInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\obj\Debug\net8.0\华蓝Day1.AssemblyInfo.cs
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\obj\Debug\net8.0\华蓝Day1.csproj.CoreCompileInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\obj\Debug\net8.0\华蓝Day1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\obj\Debug\net8.0\refint\华蓝Day1.dll
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\obj\Debug\net8.0\华蓝Day1.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\obj\Debug\net8.0\华蓝Day1.genruntimeconfig.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\华蓝Day1\obj\Debug\net8.0\ref\华蓝Day1.dll
