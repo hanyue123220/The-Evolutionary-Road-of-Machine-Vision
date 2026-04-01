@@ -1,0 +1,7 @@
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象1\bin\Debug\面向对象1.exe.config
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象1\bin\Debug\面向对象1.exe
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象1\bin\Debug\面向对象1.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象1\obj\Debug\面向对象1.csproj.AssemblyReference.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象1\obj\Debug\面向对象1.csproj.CoreCompileInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象1\obj\Debug\面向对象1.exe
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象1\obj\Debug\面向对象1.pdb
