@@ -1,0 +1,7 @@
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象2继承\bin\Debug\面向对象2继承.exe.config
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象2继承\bin\Debug\面向对象2继承.exe
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象2继承\bin\Debug\面向对象2继承.pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象2继承\obj\Debug\面向对象2继承.csproj.AssemblyReference.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象2继承\obj\Debug\面向对象2继承.csproj.CoreCompileInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象2继承\obj\Debug\面向对象2继承.exe
+C:\Users\HANYUE\Desktop\C#\1月基础\面向对象2继承\obj\Debug\面向对象2继承.pdb
