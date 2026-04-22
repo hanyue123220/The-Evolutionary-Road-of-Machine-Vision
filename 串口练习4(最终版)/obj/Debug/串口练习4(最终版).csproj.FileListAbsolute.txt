@@ -1,0 +1,10 @@
+C:\Users\HANYUE\Desktop\C#\1月基础\串口练习4(最终版)\bin\Debug\串口练习4(最终版).exe.config
+C:\Users\HANYUE\Desktop\C#\1月基础\串口练习4(最终版)\bin\Debug\串口练习4(最终版).exe
+C:\Users\HANYUE\Desktop\C#\1月基础\串口练习4(最终版)\bin\Debug\串口练习4(最终版).pdb
+C:\Users\HANYUE\Desktop\C#\1月基础\串口练习4(最终版)\obj\Debug\串口练习4(最终版).csproj.AssemblyReference.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\串口练习4(最终版)\obj\Debug\串口练习4_最终版_.Form1.resources
+C:\Users\HANYUE\Desktop\C#\1月基础\串口练习4(最终版)\obj\Debug\串口练习4_最终版_.Properties.Resources.resources
+C:\Users\HANYUE\Desktop\C#\1月基础\串口练习4(最终版)\obj\Debug\串口练习4(最终版).csproj.GenerateResource.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\串口练习4(最终版)\obj\Debug\串口练习4(最终版).csproj.CoreCompileInputs.cache
+C:\Users\HANYUE\Desktop\C#\1月基础\串口练习4(最终版)\obj\Debug\串口练习4(最终版).exe
+C:\Users\HANYUE\Desktop\C#\1月基础\串口练习4(最终版)\obj\Debug\串口练习4(最终版).pdb
